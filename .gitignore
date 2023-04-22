@@ -1,0 +1,8 @@
+*.tmp
+.var
+.azCred
+.spCred
+resources
+*.pem
+commands.txt
+server_config.sh
